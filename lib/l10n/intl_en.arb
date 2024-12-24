@@ -1,0 +1,186 @@
+{
+  "hello" : "Hello",
+  "i_have_account" : "I already have an account",
+  "start_now": "Start Now",
+  "hey_question_before_start": "Hi, we have quick questions before you start learning",
+  "choose_exam": "What do you want to study",
+  "prepare_curriculum_for_Qudrat": "Your curriculum for Qudrat is being prepared...",
+  "choose_stream": "What is your stream",
+  "qudrat_exam": "Qudrat Exam",
+  "tahsili_exam": "Tahsili Exam",
+  "continue_step": "continue",
+  "tellUsYourInfo": "Tell us your account information...",
+  "letsMakeAnAccount": "Let's make an account",
+  "firstName": "First Name",
+  "lastName": "Last Name",
+  "phoneNumber": "Mobile Phone Number",
+  "chooseYourCharacter": "Choose your favorite character",
+  "confirmYourNumber": "Confirm your phone number",
+  "youWillReceiveAMessage": "You will receive a message on the phone number you entered,\nplease enter the {number}-digit code",
+  "@youWillReceiveAMessage": {
+    "description": "number of fields",
+    "placeholders": {
+      "number": {
+        "type": "String",
+        "example": "5"
+      }
+    }
+  },
+  "will_gurantee_your_success_by_these": "سوف نضمن اجتيازك للاختبار المقرر من خلال الامور التالية",
+  "today": "Today",
+  "monday": "Monday",
+  "tuesday": "Tuesday",
+  "wednesday": "Wednesday",
+  "thursday": "Thursday",
+  "friday": "Friday",
+  "saturday": "Saturday",
+  "sunday": "Sunday",
+  "january": "January",
+  "february": "February",
+  "march": "March",
+  "april": "April",
+  "may": "May",
+  "june": "June",
+  "july": "July",
+  "august": "August",
+  "september": "September",
+  "october": "October",
+  "november": "November",
+  "december": "December",
+  "unknown": "Unknown",
+  "whenIsTheExam": "When will the exam be?",
+  "preparingForYourExam": "جاري تحضير منهجك لاختبار {examType}...",
+  "@preparingForYourExam": {
+    "description": "Message shown when preparing the curriculum for the exam.",
+    "placeholders": {
+      "examType": {
+        "type": "String",
+        "example": "القدرات"
+      }
+    }
+  },
+  "year_formats": "Formats",
+  "my_library": "My Library",
+  "review": "Review",
+  "verbal": "Verbal",
+  "quantitative": "Quantitative",
+  "public_questions": "Public Questions",
+  "privacy_policy": "Privacy Policy",
+  "subscription": "Subscription",
+  "my_account": "Account",
+  "tafauq_app": "تطبيق تفوّق",
+  "welcome_page__message": "رِحلةُ التَعلم و مُفتاح النجاح",
+  "I_have_an_account": "لدي حساب",
+  "resendCode": "Resend the code",
+  "after": "after",
+  "seconds" : "seconds",
+  "somethingWentWrongPleaseTryAgain" : "Something Went Wrong Please Try Again",
+  "noInternetErrorMessage": "Oops! It looks like you’re not connected to the internet. Please check your connection and try again.",
+  "phone_number_already_registered" : "Phone number already registered",
+  "phone_number_does_not_exist" : "Phone number does not exist",
+  "sign_in" : "Sign in",
+  "rewrite_phone_number": "Rewrite Phone Number",
+  "info_for_repeated_phone_number" : "عزيزي المستخدم، رقم الجوال الذي أدخلته مسجل لدينا مسبقًا من قبل مستخدم آخر. إذا كنت صاحب هذا الرقم، يرجى الضغط على \"تسجيل الدخول \" لإرسال رمز التحقق إلى جوالك.",
+  "phone_blocked_for_minutes": "رقم الهاتف محظور، الرحاء المحاولة بعد {minutes}",
+  "@phone_blocked_for_minutes": {
+    "description": "Message shown when the user has made too many attempts and needs to wait.",
+    "placeholders": {
+      "minutes": {
+        "type": "int",
+        "example": "30"
+      }
+    }
+  },
+  "expired_otp": "انتهت صلاحية رمز التحقق",
+  "wrong_otp": "الرمز الذي أدخلته غير صالح",
+  "my_plan" : "My Plan",
+  "revision" : "Revision",
+  "formats" : "Formats",
+  "your_progress_with_plan" : "Your progress is with the plans Man!!",
+  "tahsili_section" : "Tahsili Section",
+  "logout" : "Logout",
+  "qudrat_section" : "Qudrat Section",
+  "qudrat" : "Qudrat",
+  "tahsili" : "Tahsili",
+  "passed_formats" : "Passed Formats",
+  "exams_created" : "الاختبارات التي تم انشاءاها",
+  "wrong_answers": "اجابات خاطئة",
+  "words_need_revision" : "كلمات تحتاج مراجعة",
+  "bookmarks" : "الاشارات المرجعية",
+  "applied": "Applied",
+  "filter_by": "Filter By",
+  "choose_types_for_formats": "Choose Format Types",
+  "verbal_section" : "Verbal Section",
+  "quantitative_section" : "Quantitative Section",
+  "paragraphs_section" : "Paragraphs",
+  "comprehensive_section" : "Comprehensive",
+  "back_to_current_day": "الرجوع الى اليوم الحالي",
+  "easy" : "easy",
+  "remaining" : "remaining",
+  "show_answer" : "Show Answer",
+  "correct_answer" :"Correct Answer",
+  "you_are_offline" : "You are offline",
+  "you_seem_to_be_offline" : "You seem to be offline. Check your connection and try again.",
+  "currently_unavailable": "are currently unavailable",
+  "report_a_question": "الإبلاغ عن مشكلة",
+  "question_have_issue": "السؤال فيه خطأ",
+  "incomplete_question": "السؤال غير كامل",
+  "wrong_answer": "الجواب غلط",
+  "option_repeated": "احد الخيارات مكرره",
+  "wrong_image": "الصورة غير صحيحة",
+  "comments": "ملاحظات",
+  "optional_scored": "(إختياري)",
+  "report": "إبلاغ",
+  "next_word": "الكلمة التالية",
+  "roadmap_end_message": "{gender, select, male{أنتهت رحلتك يا اسطوري!} female{إنتهت رحلتكٍ!} other{إنتهت رحلتك!}}",
+  "@roadmap_end_message": {
+    "description": "A gendered message for the end of the roadmap",
+    "placeholders": {
+      "gender": {
+        "type": "String",
+        "description": "The gender of the user (male, female, or other)"
+      }
+    }
+  },
+  "not_according_to_plan": "{gender, select, male{أحسنت! لكن التزم بالخطة اكثر!} female{أحسنتِ! لكن التزمي بالخطة أكثر!} other{أحسنت! لكن التزم بالخطة اكثر!}}",
+  "@not_according_to_plan": {
+    "description": "A gendered message for users not following the plan",
+    "placeholders": {
+      "gender": {
+        "type": "String",
+        "description": "The gender of the user (male, female, or other)"
+      }
+    }
+  },
+  "according_to_plan": "{gender, select, male{تقدمك متوافق مع الخطة ياقوي!} female{تقدمكٍ متوافق مع الخطة!} other{تقدمك متوافق مع الخطة!}}",
+  "@according_to_plan": {
+    "description": "A gendered message for users following the plan",
+    "placeholders": {
+      "gender": {
+        "type": "String",
+        "description": "The gender of the user (male, female, or other)"
+      }
+    }
+  },
+  "finished_one_lesson": "{gender, select, male{كفو عليك استمر بالتقدم!} female{كفو أستمري بالتقدم!} other{كفو عليك استمر بالتقدم!}}",
+  "@finished_one_lesson": {
+    "description": "A gendered message for users who finished one lesson",
+    "placeholders": {
+      "gender": {
+        "type": "String",
+        "description": "The gender of the user (male, female, or other)"
+      }
+    }
+  },
+  "first_time_roadmap": "{gender, select, male{الخطة صممت خصيصاً لك!} female{الخطة صممت خصيصاً لكٍ!} other{الخطة صممت خصيصاً لك!}}",
+  "@first_time_roadmap": {
+    "description": "A gendered message for the first time the user enters the roadmap",
+    "placeholders": {
+      "gender": {
+        "type": "String",
+        "description": "The gender of the user (male, female, or other)"
+      }
+    }
+  },
+  "when_is_the_exam": "حدد تاريخ الاختبار"
+}
